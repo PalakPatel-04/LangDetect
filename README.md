@@ -37,3 +37,14 @@ This Python script demonstrates language detection using the Multinomial Naive B
 
 Contributions and improvements are welcome. Fork the repository, make changes, and submit pull requests.
 
+
+
+
+
+https://github.com/user-attachments/assets/5f0a056e-2dcd-43fa-bc07-c99ff5d3401e
+
+
+
+
+
+
